@@ -12,6 +12,9 @@ Program is designed to detect objects and counting them.
 7. In the next step, the centers of gravity for the objects are calculated and marked with crosses.
 8. In the last step, the Blair-Bliss and Feret ratios are calculated and displayed below.
 
+## Result of accuracy test
+
+![Result_table](https://github.com/Rafalz13/Counting_objects/blob/master/images/result_table.png)
 
 
 
